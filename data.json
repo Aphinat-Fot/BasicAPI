@@ -1,0 +1,39 @@
+[
+    {
+        "title":"คอมพิวเตอร์คืออะไร",
+        "subtitle":"อุปกรณ์ที่ใช้สำหรับการคำนวณและทำงานอื่นๆ",
+        "image_url":"https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "detial":"1"
+    },
+    {
+        "title":"มาเขียนโปรแกรมกัน",
+        "subtitle":"บทความนี้จะแนะนำการเริ่มต้นเขียนโปรแกรม",
+        "image_url":"https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg",
+        "detial":"2"
+
+    },
+    {
+        "title":"Flutter คือ?",
+        "subtitle":"Tools สำหรับออกแบบ UI ของ Google",
+        "image_url":"https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "detial":"3"
+
+    },
+    {
+        "title":"Python คือ?",
+        "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง",
+        "image_url":"https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "detial":"4"
+
+    },
+    {
+        "title":"่Java คือ?",
+        "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง",
+        "image_url":"https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "detial":"5"
+
+    }
+]
+
+
+
